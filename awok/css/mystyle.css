@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+th {
+    background: green;
+    height: 50;
+    width: 400%;
+td {
+        background: aquamarine;
+        height: 50;
+        text-align: center;
+    }
